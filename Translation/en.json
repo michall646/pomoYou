@@ -1,0 +1,65 @@
+{
+    "translation": {
+      "hello":"Hello",
+      "this line is translated":"This line is translated",
+
+      "apperancePageTitle": "Apperance",
+      "apperancePageDisc": "Change the look of the app",
+      "languagePageTitle": "Language",
+      "languagePageDisc": "Change the language of the app",
+      "settingsPageTitle": "Settings",
+      "timerPageTitle" : "Timer",
+      "timerPageDisc": "Configure the timer",
+      "statisticsPageTitle": "Statistics",
+      "goalsPageTitle": "Goals",
+      "goalsPageDisc": "Change your goals",
+
+
+
+      "languageItemTitle": "Pick your language",
+      "addNew": "Add new",
+      "darkMode": "Dark Mode",
+      "appTheme": "App Theme",
+      "useSystemColor": "Use stystem color",
+
+      "pomodoriLength": "Pomodori length",
+      "shortBreakLength": "Short break length",
+      "longBreakLength": "Long break length",
+      "enableLongBreaks": "Enable long breaks",
+      "longBreakFrequency": "Long Break frequency",
+      "timeIntervals": "Time intervals",
+      "longBreaks": "Long Breaks",
+      "dailyGoal": "Daily Goal",
+      
+      "minLeft_one": "minute left ",
+      "minLeft_other": "minutes left ",
+      "min_one": "minute",
+      "min_other": "minutes",
+      
+
+      "secLeft_one": "second left ",
+      "secLeft_other": "secondss left",
+      "isNowOver": "is now over",
+      "next": "Next:",
+
+      "timeP_one": "time",
+      "timeP_other": "times",
+
+      "pomodori": "Pomodori",
+      "shortBreak": "Short Break",
+      "longBreak": "Long Break",
+
+      "timeToday": "Time today",
+      "streak": "Streak",
+      "bestStreak": "Best streak",
+      "thisWeek" : "This week",
+      "totalTime": "Total time",
+      "goalsHit" : "Goals hit",
+      "best": "Best",
+      "every": "every"
+      
+
+
+
+    }
+  }

@@ -1,0 +1,68 @@
+{
+    "translation": {
+      "hello":"Hello",
+      "this line is translated":"This line is translated",
+
+      "apperancePageTitle": "Wygląd",
+      "apperancePageDisc": "Zmień wygląd aplikacji",
+      "languagePageTitle": "Język",
+      "languagePageDisc": "Zmien język aplikacji",
+      "imagesPageTitle": "Obrazy",
+      "settingsPageTitle": "Ustawienia",
+      "timerPageTitle" : "Minutnik",
+      "timerPageDisc": "Skonfiguruj minutnik",
+      "statisticsPageTitle": "Statystyki",
+      "goalsPageTitle": "Cele",
+      "goalsPageDisc": "Zmień cele",
+
+      "languageItemTitle": "Wybierz język",
+      "addNew": "Dodaj",
+      "darkMode": "Ciemny tryb",
+      "appTheme": "Kolor aplikacji",
+      "useSystemColor": "Używaj koloru stystemowego",
+
+      "pomodoriLength": "Pomodori",
+      "shortBreakLength": "Krótka przerwa",
+      "longBreakLength": "Długa przerwa",
+      "enableLongBreaks": "Włącz długie przerwy",
+      "longBreakFrequency": "Częstotliwość",
+      "timeIntervals": "Długości czasowe",
+      "longBreaks": "Długie przerwy",
+      "dailyGoal": "Cel",
+      
+      "minLeft_one": "minuta została",
+      "minLeft_few": "minuty zostały",
+      "minLeft_many": "minut zostało",
+      "minLeft_other": "minut(y) zostało",
+      "min_one": "minuta",
+      "min_few": "minuty",
+      "min_many": "minut",
+      "min_other": "minut(y)", 
+      
+      "secLeft_one": "sekunda została",
+      "secLeft_few": "sekundy zostały",
+      "secLeft_many": "sekund zostało",
+      "secLeft_other": "sekund(y) zostało",
+      "isNowOver": "została ukończona",
+      "next": "Nastepnie:",
+
+      "timeP_one": "raz",
+      "timeP_few": "razy",
+      "timeP_many": "razy",
+      "timeP_other": "razy",
+
+      "pomodori": "Pomodori",
+      "shortBreak": "Krótka przerwa",
+      "longBreak": "Długa przerwa",
+
+      "timeToday": "Czas dzisiaj",
+      "streak": "Passa",
+      "bestStreak": "Najlepsza passa",
+      "thisWeek" : "W tym tygodniu",
+      "totalTime": "Całkowity Czas",
+      "goalsHit" : "Cele osiągnięte",
+      "best": "Najlepszy",
+      "every": "co"
+
+    }
+  }
