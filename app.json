@@ -27,6 +27,9 @@
       "output": "single",
       "bundler": "metro"
     },
+    "experiments": {
+      "baseUrl": "/pomoYou"
+    },
     "extra": {
       "eas": {
         "projectId": "087b60b1-0507-4fd7-b1ab-f373fbb1bbc6"

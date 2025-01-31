@@ -6,6 +6,7 @@ node_modules/
 # Expo
 .expo/
 web-build/
+dist/
 expo-env.d.ts
 
 # Native
@@ -33,3 +34,8 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+dist/index.html
+dist/_expo/static/js/web/index-223f809a4f923069ef6d6c3fbf1417a3.js
+dist/_expo/static/js/web/index-423435838c146c5740e943849c1c474d.js
+dist/index.html
+dist/_expo/static/js/web/index-423435838c146c5740e943849c1c474d.js
